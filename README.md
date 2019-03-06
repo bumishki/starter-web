@@ -13,4 +13,8 @@ New Text Added
 
 ##How To Contribute
 
+###Copyright
+
+Git training 2018
+
 
