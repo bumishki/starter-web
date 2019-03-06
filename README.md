@@ -13,6 +13,8 @@ New Text Added
 
 ##How To Contribute
 
+Please fork this repository and then issue Pull Requests for review. 
+
 ###Copyright
 
 Git training 2018
