@@ -2,6 +2,8 @@
 
 Simple text
 
+Adding a line for rebasing example.
+
 ##Introduction
 
 
