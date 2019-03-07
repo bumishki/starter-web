@@ -3,7 +3,7 @@
 Simple text
 
 Adding a line for rebasing example.
-Then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ##Introduction
 
