@@ -20,6 +20,6 @@ Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
-Git training 2018
+Git training 2018. All rights reserved. 
 
 
